@@ -1,7 +1,7 @@
 # HeroesOfPymoli
 Quick Game analysis using Jupyter notebooks and Pandas
 
-### Analysis includes
+### Analysis includes:
 * Player Count
 * Purchasing Analysis (Total)
 * Gender Demographics
